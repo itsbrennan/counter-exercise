@@ -29,8 +29,6 @@
       } else if (counterValue > 0){
         counter.style.color = 'green';
       }
-
-
     })
     
   })
